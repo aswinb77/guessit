@@ -1,3 +1,3 @@
-# gAME
+# guessit
 
-New game project repository.
+New project repository.
